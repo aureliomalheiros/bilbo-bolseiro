@@ -1,0 +1,7 @@
+name: pulumi-start
+description: The project is start study about pulumi
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
